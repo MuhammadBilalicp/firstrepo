@@ -1,2 +1,3 @@
 This is my first line of code. 
-Here is the ssecongd line.
+Here is the second line.
+Here is the third line.
